@@ -1,6 +1,6 @@
 ---
-layout: page
-title: CV
+# layout: page
+# title: CV
 ---
 
 You can download my full CV in PDF format:

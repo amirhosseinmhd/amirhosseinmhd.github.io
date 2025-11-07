@@ -14,13 +14,12 @@ baseurl:          ""
 
 author:
   name:           'Amirhossein Mohammadi'
-  email:          'amirmhd@yorku.ca'
+  email:          'amirmhd [at] yorku [dot]ca'
   url:            https://amirhosseinmhd.github.io
 
 # Social media
 social:
-  email:          amirmhd@yorku.ca
-  phone:          '+1 (647) 248-2964'
+  email:          amirmhd [at] yorku [dot] ca
   github:         https://github.com/amirhosseinmhd
   linkedin:       https://www.linkedin.com/in/amirhossein-mohammadi/
   scholar:        https://scholar.google.com/citations?user=ih7u_boAAAAJ&hl=en
