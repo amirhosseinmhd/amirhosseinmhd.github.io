@@ -1,26 +1,31 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+markdown:         kramdown
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            Amirhossein Mohammadi
+tagline:          'M.A.Sc Candidate | Machine Learning Researcher'
+description:      'M.A.Sc Candidate in Electrical and Computer Engineering at York University, focusing on representation learning, self-supervised learning, and world modeling.'
 url:              https://amirhosseinmhd.github.io
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Amirhossein Mohammadi'
+  email:          'amirmhd@yorku.ca'
+  url:            https://amirhosseinmhd.github.io
 
-paginate:         5
+# Social media
+social:
+  email:          amirmhd@yorku.ca
+  phone:          '+1 (647) 248-2964'
+  github:         https://github.com/amirhosseinmhd
+  linkedin:       https://www.linkedin.com/in/amirhosseinmhd
+  scholar:        https://scholar.google.com/citations?user=YOUR_ID
+  twitter:        https://twitter.com/amirhosseinmhd
 
 # Custom vars
-version:          2.1.0
-
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/amirhosseinmhd/amirhosseinmhd.github.io
