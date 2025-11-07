@@ -10,7 +10,7 @@ title:            Amirhossein Mohammadi
 tagline:          'M.A.Sc Candidate | Machine Learning Researcher'
 description:      'M.A.Sc Candidate in Electrical and Computer Engineering at York University, focusing on representation learning, self-supervised learning, and world modeling.'
 url:              https://amirhosseinmhd.github.io
-baseurl:          /
+baseurl:          ""
 
 author:
   name:           'Amirhossein Mohammadi'
