@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Education
+order: 2
 ---
 
 ## York University

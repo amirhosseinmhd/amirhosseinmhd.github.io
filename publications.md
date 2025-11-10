@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Publications
+order: 3
 ---
 
 ## Under Review
@@ -17,7 +18,7 @@ title: Publications
 <br>
 Shamsiiat Abdurakhmanova, <span style="text-decoration: underline;">Amirhossein Mohammadi</span>, Yasmin SarcheshmehPour, Alexander Jung
 <br>
-*Submitted to Journal of Machine Learning Research (Springer), under review.*
+*Submitted to Journal of Machine Learning (Springer), under review.*
 <br>
 [arXiv:2409.02064](https://arxiv.org/abs/2409.02064)
 
