@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: News
 ---
@@ -10,4 +10,4 @@ title: News
 <!--
 Example news item format:
 - **Date:** Description of the news item
--->
+--> -->
