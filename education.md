@@ -63,7 +63,7 @@ order: 2
 • Convex Optimization (20/20)<br>
 • Statistical Inference (20/20)<br>
 • Data Structures & Algorithms (18.7/20)<br>
-• Wireless Communication (18.7/20)<br>
+• Wireless Communication (17.9/20)<br>
 • Signals and Systems (18/20)<br>
 • Digital Signal Processing (16.2/20)
 
