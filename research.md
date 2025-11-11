@@ -41,23 +41,24 @@ The work is detailed in our [preprint](https://arxiv.org/pdf/2409.02064) and sou
 
 ## Notable Projects
 
-### Energy-Based Transformer Models for Text Generation
+### Energy-Based Transformer Models for Text Generation [[GitHub](https://github.com/amirhosseinmhd/my_EBT)] [[Report](https://drive.google.com/file/d/1nMAnkvJH3LickGPJf6DgAKzb1oycJxFC/view?usp=sharing)]
 
 **Fall 2025 - Present**
 
 Developing energy-based transformer architectures for text generation tasks, focusing on reformulating sequence modeling as an energy minimization problem, in hope to develop system two thinkers.
 
-### Self-Supervised Learning for CSI Representation Learning
+### Deep Generative Models: VAE, Diffusion, and GAN Implementations [[GitHub](https://github.com/amirhosseinmhd/deep-generative-models)] [[Report](https://github.com/amirhosseinmhd/deep-generative-models/blob/main/Summary_Gen_DirectedReading.pdf)]
+
+**Spring 2025** 
+
+Built and trained generative models from scratch in PyTorch as part of a graduate-level course, including Variational Autoencoders (VAE), Denoising Diffusion Probabilistic Models (DDPM) with modifications to become score based model, and Generative Adversarial Networks (GAN) alongside the 1D version of it. Explored the theoretical foundations and practical trade-offs of each approach for image generation tasks.
+
+### Contrastive Self-Supervised Learning for CSI [[GitHub](https://github.com/amirhosseinmhd/contrastive_SSL_CSI)] [[Report](https://github.com/amirhosseinmhd/contrastive_SSL_CSI/blob/main/Report.pdf)]
 
 **Spring 2024**
 
 Implemented contrastive self-supervised learning frameworks (SimCLR, DirectCLR) for Channel State Information data representation without relying on labeled data. Demonstrated competitive performance with supervised methods while using unlabeled datasets from SignFi.
 
-### Implementing Various Generative Models from Scratch
-
-**Spring 2025**
-
-During Deep Generative Modelling course, implemented various generative models from scratch including VAEs, Diffusion Models, and GANs. Focused on understanding the theoretical foundations and practical implementations of these models using PyTorch.
 
 ### AI-Generated Code Evaluation Using Log Probability
 
@@ -69,7 +70,7 @@ Developed a probabilistic framework for evaluating LLM-generated Python code wit
 
 **Spring 2022**
 
-Developed a Transformer-based model for open-set synthetic speech classification using self-supervised learning (wav2vec 2.0) and a two-stage architecture for handling unknown synthesis methods. Presented at ICASSP.
+Developed a Transformer-based model for open-set synthetic speech classification using self-supervised learning (wav2vec 2.0) and a two-stage architecture for handling unknown synthesis methods.
 
 ### Persian Music Genre Classification
 

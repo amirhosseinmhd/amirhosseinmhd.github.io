@@ -24,6 +24,7 @@
   font-size: 1.75rem !important;
   line-height: 1.2;
   word-wrap: break-word;
+  font-family: "Times New Roman", Times, Georgia, serif;
 }
 
 @media (min-width: 48em) {
